@@ -16,8 +16,8 @@ text-align: center;
 
 .chamada {
     background: rgb(82, 136, 103);
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 1px;
+    padding-top: 1px;
     justify-content: center;
     text-align: center;
 }
