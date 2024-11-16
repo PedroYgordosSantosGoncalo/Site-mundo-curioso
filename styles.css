@@ -16,8 +16,8 @@ text-align: center;
 
 .chamada {
     background: rgb(82, 136, 103);
-    padding-bottom: 1px;
-    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     justify-content: center;
     text-align: center;
 }
@@ -60,7 +60,7 @@ padding-bottom: 1px;
 
 .categoria-videos img {
 opacity: 0.5;
-height:500px
+height:400px
 }
 
 .categoria-videos img:hover {
